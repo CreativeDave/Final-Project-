@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML5 Minimal1", "HTML5 Minimal1\HTML5 Minimal1.csproj", "{5EF4D493-F6C1-4C47-A3B4-4748645EC2A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF4D493-F6C1-4C47-A3B4-4748645EC2A7}.Debug|x86.ActiveCfg = Debug|x86
+		{5EF4D493-F6C1-4C47-A3B4-4748645EC2A7}.Debug|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A74CA8B-86C3-4B4D-8366-F598EB08081F}
+	EndGlobalSection
+EndGlobal
